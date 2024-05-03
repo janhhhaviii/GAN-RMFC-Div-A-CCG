@@ -11,7 +11,7 @@ This project implements a Cycle Generative Adversarial Network (CycleGAN) for tr
 - Offers opportunities for creative image manipulation and style transfer.
 
 ## Requirements
-- Python 
+- Python (version 3.10)
 - TensorFlow (version 3.0.9)
 - NumPy
 - Matplotlib
